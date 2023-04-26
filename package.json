@@ -1,6 +1,6 @@
 {
   "name": "cesium-navigation-li",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "typings": "lib/index.d.ts",
   "description": "cesium-navigation-li",
   "main": "dist/CesiumNavigation.umd.js",
