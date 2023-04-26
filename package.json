@@ -2,7 +2,7 @@
   "name": "cesium-navigation-li",
   "version": "0.0.1",
   "typings": "lib/index.d.ts",
-  "description": "cesium-navigation-es6",
+  "description": "cesium-navigation-li",
   "main": "dist/CesiumNavigation.umd.js",
   "module": "dist/CesiumNavigation.js",
   "files": [
