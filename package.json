@@ -1,6 +1,6 @@
 {
-  "name": "cesium-navigation-es6",
-  "version": "3.0.8",
+  "name": "cesium-navigation-li",
+  "version": "0.0.1",
   "typings": "lib/index.d.ts",
   "description": "cesium-navigation-es6",
   "main": "dist/CesiumNavigation.umd.js",
@@ -24,7 +24,7 @@
     "url": "git+https://github.com/cesium-plugin/cesium-navigation-es6"
   },
   "dependencies": {
-    "cesium": "^1.88"
+    "cesium": "1.95.0"
   },
   "keywords": [
     "cesium-navigation"
